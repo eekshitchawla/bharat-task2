@@ -540,3 +540,8 @@ button:focus {
   word-spacing: 0.1cm;
   font-weight: 600;
 }
+a {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
